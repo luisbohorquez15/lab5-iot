@@ -1,0 +1,6 @@
+alert-sink escuchando en :5000
+2026-10-15T20:24:26 ALERTA {"status": "firing", "alertas": [{"nombre": "TestAlert", "estado": "firing", "inicio": "2026-10-15T20:24:26.382576156-05:00", "valores": "[ metric='foo' labels={instance=bar} value=10 ]"}]}
+2026-10-15T20:24:28 ALERTA {"status": "firing", "alertas": [{"nombre": "TestAlert", "estado": "firing", "inicio": "2026-10-15T20:24:28.509127052-05:00", "valores": "[ metric='foo' labels={instance=bar} value=10 ]"}]}
+2026-10-15T20:24:32 ALERTA {"status": "firing", "alertas": [{"nombre": "TestAlert", "estado": "firing", "inicio": "2026-10-15T20:24:32.324678376-05:00", "valores": "[ metric='foo' labels={instance=bar} value=10 ]"}]}
+2026-10-15T20:33:30 ALERTA {"status": "firing", "alertas": [{"nombre": "Temperatura alta (> 32 °C)", "estado": "firing", "inicio": "2026-10-15T20:33:20-05:00", "valores": "[ var='A' labels={} type='query' value=38.5 ], [ var='B' labels={} type='reduce' value=38.5 ], [ var='C' labels={} type='threshold' value=1 ]"}]}
+2026-10-15T20:39:30 ALERTA {"status": "resolved", "alertas": [{"nombre": "Temperatura alta (> 32 °C)", "estado": "resolved", "inicio": "2026-10-15T20:38:50-05:00", "valores": "[ var='A' labels={} type='query' value=26.269090909090913 ], [ var='B' labels={} type='reduce' value=26.269090909090913 ], [ var='C' labels={} type='threshold' value=0 ]"}]}

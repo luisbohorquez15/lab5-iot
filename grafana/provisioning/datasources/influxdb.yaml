@@ -1,0 +1,16 @@
+# Grafana crea este datasource al arrancar (no hay que hacerlo a mano).
+apiVersion: 1
+datasources:
+  - name: InfluxDB-Lab5
+    uid: influxdb-lab5            # uid fijo: el dashboard y la alerta lo referencian
+    type: influxdb
+    access: proxy
+    url: http://influxdb:8086
+    isDefault: true
+    jsonData:
+      version: Flux
+      organization: $INFLUX_ORG
+      defaultBucket: $INFLUX_BUCKET
+      timeInterval: 10s           # = intervalo del publicador
+    secureJsonData:
+      token: $INFLUX_TOKEN        # se toma de la variable de entorno, no queda en el repo

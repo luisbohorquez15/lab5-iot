@@ -1,0 +1,30 @@
+== Últimos 5 puntos de temperatura ==
+Result: _result
+Table: keys: [_field, device]
+         _field:string           device:string                      _time:time                  _value:float
+----------------------  ----------------------  ------------------------------  ----------------------------
+           temperature               sensor-01  2026-10-16T01:43:46.107000000Z                         22.86
+           temperature               sensor-01  2026-10-16T01:43:56.107000000Z                         23.42
+           temperature               sensor-01  2026-10-16T01:44:06.107000000Z                         23.05
+           temperature               sensor-01  2026-10-16T01:44:16.108000000Z                         22.63
+           temperature               sensor-01  2026-10-16T01:44:26.108000000Z                         23.75
+== Puntos por variable desde el inicio de la toma (últimos 5 días) ==
+Result: _result
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+              humidity                         548
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+           illuminance                         548
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+           temperature                         548
+== Primer punto (inicio de la toma) ==
+Result: _result
+Table: keys: []
+                    _time:time
+------------------------------
+2026-10-16T00:13:15.860000000Z

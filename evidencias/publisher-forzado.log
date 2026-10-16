@@ -1,0 +1,47 @@
+2026-10-15T19:13:05 publicando en 'lab5/sensor-01/telemetry' cada 10.0s
+2026-10-15T19:13:05 conectado a mosquitto:1883 (Success)
+2026-10-15T20:30:46 OVERRIDE activado {'temperature': 38.5} por 300s
+2026-10-15T20:30:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114246069, 'temperature': 38.5, 'humidity': 73.87, 'illuminance': 4.6}
+2026-10-15T20:30:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114256070, 'temperature': 38.5, 'humidity': 73.28, 'illuminance': 1.1}
+2026-10-15T20:31:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114266070, 'temperature': 38.5, 'humidity': 73.01, 'illuminance': 4.8}
+2026-10-15T20:31:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114276071, 'temperature': 38.5, 'humidity': 74.35, 'illuminance': 1.1}
+2026-10-15T20:31:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114286071, 'temperature': 38.5, 'humidity': 72.75, 'illuminance': 5.0}
+2026-10-15T20:31:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114296072, 'temperature': 38.5, 'humidity': 74.36, 'illuminance': 4.7}
+2026-10-15T20:31:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114306072, 'temperature': 38.5, 'humidity': 74.36, 'illuminance': 3.9}
+2026-10-15T20:31:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114316073, 'temperature': 38.5, 'humidity': 71.86, 'illuminance': 4.4}
+2026-10-15T20:32:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114326073, 'temperature': 38.5, 'humidity': 74.52, 'illuminance': 0.9}
+2026-10-15T20:32:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114336074, 'temperature': 38.5, 'humidity': 74.46, 'illuminance': 2.6}
+2026-10-15T20:32:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114346074, 'temperature': 38.5, 'humidity': 73.64, 'illuminance': 1.9}
+2026-10-15T20:32:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114356075, 'temperature': 38.5, 'humidity': 73.04, 'illuminance': 0.9}
+2026-10-15T20:32:46 OVERRIDE activado {'temperature': 38.5} por 300s
+2026-10-15T20:32:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114366075, 'temperature': 38.5, 'humidity': 72.58, 'illuminance': 1.7}
+2026-10-15T20:32:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114376076, 'temperature': 38.5, 'humidity': 73.01, 'illuminance': 3.8}
+2026-10-15T20:33:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114386076, 'temperature': 38.5, 'humidity': 74.22, 'illuminance': 0.8}
+2026-10-15T20:33:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114396077, 'temperature': 38.5, 'humidity': 74.07, 'illuminance': 2.9}
+2026-10-15T20:33:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114406077, 'temperature': 38.5, 'humidity': 73.38, 'illuminance': 2.8}
+2026-10-15T20:33:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114416078, 'temperature': 38.5, 'humidity': 73.43, 'illuminance': 1.3}
+2026-10-15T20:33:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114426078, 'temperature': 38.5, 'humidity': 72.69, 'illuminance': 3.8}
+2026-10-15T20:33:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114436079, 'temperature': 38.5, 'humidity': 73.44, 'illuminance': 1.8}
+2026-10-15T20:34:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114446079, 'temperature': 38.5, 'humidity': 73.33, 'illuminance': 1.9}
+2026-10-15T20:34:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114456080, 'temperature': 38.5, 'humidity': 74.07, 'illuminance': 0.0}
+2026-10-15T20:34:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114466080, 'temperature': 38.5, 'humidity': 75.13, 'illuminance': 3.0}
+2026-10-15T20:34:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114476081, 'temperature': 38.5, 'humidity': 75.94, 'illuminance': 2.6}
+2026-10-15T20:34:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114486081, 'temperature': 38.5, 'humidity': 71.96, 'illuminance': 0.9}
+2026-10-15T20:34:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114496082, 'temperature': 38.5, 'humidity': 74.93, 'illuminance': 3.5}
+2026-10-15T20:35:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114506082, 'temperature': 38.5, 'humidity': 75.11, 'illuminance': 4.3}
+2026-10-15T20:35:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114516083, 'temperature': 38.5, 'humidity': 74.92, 'illuminance': 2.5}
+2026-10-15T20:35:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114526083, 'temperature': 38.5, 'humidity': 73.37, 'illuminance': 4.8}
+2026-10-15T20:35:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114536084, 'temperature': 38.5, 'humidity': 74.51, 'illuminance': 4.6}
+2026-10-15T20:35:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114546084, 'temperature': 38.5, 'humidity': 74.0, 'illuminance': 1.2}
+2026-10-15T20:35:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114556085, 'temperature': 38.5, 'humidity': 74.1, 'illuminance': 4.0}
+2026-10-15T20:36:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114566085, 'temperature': 38.5, 'humidity': 73.45, 'illuminance': 0.1}
+2026-10-15T20:36:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114576086, 'temperature': 38.5, 'humidity': 72.57, 'illuminance': 2.0}
+2026-10-15T20:36:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114586086, 'temperature': 38.5, 'humidity': 74.94, 'illuminance': 2.4}
+2026-10-15T20:36:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114596087, 'temperature': 38.5, 'humidity': 73.31, 'illuminance': 0.4}
+2026-10-15T20:36:46 [FORZADO] {'device': 'sensor-01', 'ts': 1792114606087, 'temperature': 38.5, 'humidity': 75.12, 'illuminance': 4.1}
+2026-10-15T20:36:56 [FORZADO] {'device': 'sensor-01', 'ts': 1792114616088, 'temperature': 38.5, 'humidity': 74.07, 'illuminance': 1.5}
+2026-10-15T20:37:06 [FORZADO] {'device': 'sensor-01', 'ts': 1792114626088, 'temperature': 38.5, 'humidity': 73.87, 'illuminance': 3.6}
+2026-10-15T20:37:16 [FORZADO] {'device': 'sensor-01', 'ts': 1792114636089, 'temperature': 38.5, 'humidity': 72.34, 'illuminance': 3.4}
+2026-10-15T20:37:26 [FORZADO] {'device': 'sensor-01', 'ts': 1792114646090, 'temperature': 38.5, 'humidity': 72.22, 'illuminance': 4.4}
+2026-10-15T20:37:36 [FORZADO] {'device': 'sensor-01', 'ts': 1792114656090, 'temperature': 38.5, 'humidity': 74.34, 'illuminance': 4.3}
+2026-10-15T20:37:46 OVERRIDE terminado, vuelve la simulación
