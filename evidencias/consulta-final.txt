@@ -1,0 +1,13 @@
+Result: _result
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+              humidity                       34564
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+           illuminance                       34564
+Table: keys: [_field]
+         _field:string                  _value:int
+----------------------  --------------------------
+           temperature                       34564
